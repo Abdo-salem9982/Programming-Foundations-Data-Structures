@@ -21,4 +21,4 @@ Once you get past simple programs with one or two variables, you'll use data str
 
 ### Certificate [Link](https://www.linkedin.com/learning/certificates/812f4ea78396150c7a14177d239ad3c3a4d6ae037d61a5132e6894b7889b0843?trk=share_certificate)
 
-### For More Notes:- [Notion](https://tranquil-popcorn-52a.notion.site/4-Programming-Foundations-Data-Structures-2h-20m-b7560cde977544d6860e604b2db1eb68)
+### For More Notes:- [Notion](https://tranquil-popcorn-52a.notion.site/04-Programming-Foundations-Data-Structures-d8b7a8b4131b480b932fbbb73b6e0d9a)
